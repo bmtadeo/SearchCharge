@@ -1,0 +1,6 @@
+module Pods_SearchCharge {
+  umbrella header "Pods-SearchCharge-umbrella.h"
+
+  export *
+  module * { export * }
+}

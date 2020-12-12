@@ -1,0 +1,5 @@
+XSym
+0043
+a4ecf6d12924353fed171d783d2e6bef
+../../../SwiftRater/SwiftRater/SwiftRater.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,3790 @@
+{
+    "puntos": {
+        "1": {
+            "name": "Reocin",
+            "address":"Autovía del Cantábrico, Km. 234",
+            "city": "Reocin",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.094038 ,
+                "latitude":43.355686
+            }
+        },"2": {
+            "id":2,
+            "name": "Atalaya del Cañavate",
+            "address":"Autovia A-3, Km 175",
+            "city": "Atalaya del Cañavate",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.254555,
+                "latitude":39.538687
+            }
+        },"3": {
+            "name": "Fuengirola",
+            "address":"Avenida del Higueron 48",
+            "city": "Fuengirola",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.254555,
+                "latitude":39.538687
+            }
+        },"4": {
+            "name": "La Seu d'Urgell",
+            "address":"La Seu d'Urgell",
+            "city": "La Seu d'Urgell",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.462297,
+                "latitude":42.359108
+            }
+        },"5": {
+            "name": "Getafe",
+            "address":"Av. Ada Lovelace, 23",
+            "city": "Getafe",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.696302,
+                "latitude":40.290389
+            }
+        },"6": {
+            "name": "Almaraz",
+            "address":"N-V, 200, 10350",
+            "city": "Almaraz",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.695668,
+                "latitude":39.791255
+            }
+        },"7": {
+            "name": "Bembibre",
+            "address":"Autovía del Noroeste, 550",
+            "city": "Ponferrada",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-6.451837,
+                "latitude":42.623851
+            }
+            
+        },"8": {
+            "name": "Aguadulce",
+            "address":"N-334 & A-92",
+            "city": "Aguadulce",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.986068,
+                "latitude":37.256871
+            }
+        },"9": {
+            "name": "Guarromán",
+            "address":"Salida 288, Polígono Industrial de Guadiel",
+            "city": "Guarromán",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.722848,
+                "latitude":38.143021
+            }
+        },"10": {
+            "name": "Mérida",
+            "address":"Polígono Industrial El Prado Ser 1A",
+            "city": "Mérida",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-6.375133,
+                "latitude":38.921746
+            }
+        },"11": {
+            "name": "Rivabellosa",
+            "address":"Pol., Industrial la Coba Pol., 1303",
+            "city": "Rivabellosa",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.91951,
+                "latitude":42.701171
+            }
+        },"12": {
+            "name": "Manzanares",
+            "address":"13200, Cdad. Real",
+            "city": "Manzanares",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4 ,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.382999,
+                "latitude":39.006855
+            }
+        },"13": {
+            "name": "Zaragoza",
+            "address":"Estación de Servicio EL CISNE, A2, Km 309",
+            "city": "Zaragoza",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.009618,
+                "latitude":41.625707
+            }
+        },"14": {
+            "name": "Sant Cugat",
+            "address":"08174 Sant Cugat del Vallès",
+            "city": "Barcelona",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 12,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":12 ,
+                "type2":12,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.072674,
+                "latitude":41.498135
+            }
+        },"15": {
+            "name": "Granada",
+            "address":"Moraleda de Zafayona",
+            "city": "Granada",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.928417,
+                "latitude":37.181805
+            }
+        },"16": {
+            "name": "Hotel Resort El Montico",
+            "address":"Ctra. Burgos Salamanca, KM. 147",
+            "city": "Tordesillas",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.943023,
+                "latitude":41.516125
+            }
+        },"17": {
+            "name": "Caldes de Malavella",
+            "address":"Carretera N-II, km. 701",
+            "city": "Caldes de Malavella",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.767237,
+                "latitude":41.859029
+            }
+        },"18": {
+            "name": "Albacete",
+            "address":"KM 52 La Gineta",
+            "city": "Albacete",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.039013,
+                "latitude":39.134675
+            }
+        },"19": {
+            "name": "Ariza",
+            "address":"Calle Carr. de Madrid, 197",
+            "city": "Ariza",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6 ,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.002201,
+                "latitude":41.313192
+            }
+        },"20": {
+            "name": "Burgos",
+            "address":"Carretera Madrid-Irún, 137",
+            "city": "Burgos",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6 ,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.704115,
+                "latitude":42.312365
+            }
+        },"21": {
+            "name": "Cúllar",
+            "address":"A-92N",
+            "city": "Cúllar",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8 ,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.6139444,
+                "latitude":37.5540305
+            }
+        },"22": {
+            "name": "Murcia",
+            "address":"Calle Nueva Condomina 1. 1, 5T",
+            "city": "Cúllar",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10 ,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.149343,
+                "latitude":38.038172
+            }
+        },"23": {
+            "name": "Lleida",
+            "address":"S/N La Variant Torrefarera",
+            "city": "Lleida",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6 ,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":0.605371,
+                "latitude":41.663959
+            }
+        },"24": {
+            "name": "Valencia",
+            "address":"S/N Carrer de Leonardo Da Vinci Paterna",
+            "city": "Valencia",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.451521,
+                "latitude":39.542965
+            }
+        },"25": {
+            "name": "L´Aldea",
+            "address":"L´Aldea, Spain 43896",
+            "city": "L'Aldea",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6 ,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":0.606421,
+                "latitude":40.753019
+            }
+        },"26": {
+            "name": "Tarragona",
+            "address":"La Boella Tarragona exit 12 Autovia T-11",
+            "city": "Tarragona",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost":0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":2,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.1683,
+                "latitude":41.134294
+            }
+        },"27": {
+            "name": "Girona",
+            "address":"Calle Francesc Ferrer, 16-18 17006",
+            "city": "Girona",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4 ,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.817295,
+                "latitude":41.998411
+            }
+        },"28": {
+            "name": "Hotel Carlton",
+            "address":"Plaza Federico Moyua,2 ",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 4,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.934899,
+                "latitude":43.262414
+            }
+        },"29": {
+            "name": "Elcano",
+            "address":"Elcano, 9",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Iberdrola",
+            "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.30,
+            "power":"43kW - 50kW",
+            "conectors": {
+                "ccs":1 ,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.9345605394233,
+                "latitude":43.2623841725375
+            }
+        },"30": {
+            "name": "El Corte Ingles Bilbao",
+            "address":"Gran Via, 7-9",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":2,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.929411,
+                "latitude":43.260989
+            }
+        },"31": {
+            "name": "Paseo Uribitarte 3",
+            "address":"Paseo Uribitarte, 3",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Iberdrola",
+            "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.30,
+            "power":"43kW - 50kW",
+            "conectors": {
+                "ccs":1 ,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.9271665201883,
+                "latitude":43.2648321943264
+            }
+        },"32": {
+            "name": "Lehendakari Leizaola 5 ",
+            "address":"Lehendakari Leizaola, 5 ",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Iberdrola",
+            "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.30,
+            "power":"43kW - 50kW",
+            "conectors": {
+                "ccs":1 ,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.9395200048316,
+                "latitude":43.2671539227433
+            }
+        },"33": {
+            "name": "Parque Tec. Bizkaia",
+            "address":"Polígono Parque Tecnológico, 101",
+            "city": "Zamudio",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":2,
+                "chademo":0,
+                "schuko": 2
+            },
+            "coordinates": {
+                "longitude":-2.859077,
+                "latitude":43.28966
+            }
+        },"34": {
+            "name": "Madrid - SABA Parking Nuevos Ministerios, Spaina",
+            "address":"SABA Parking Nuevos Ministerios, Paseo de la Castellana, 100",
+            "city": "Madrid",
+            "country":"Spain",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.691335,
+                "latitude":40.443082
+            }
+        },"35": {
+            "name": "Miranda de Ebro",
+            "address":"Carretera Nacional I, km 318",
+            "city": "Miranda de Ebro",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 5,
+            "cost": 0.24,
+            "power":"22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":3,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.953431,
+                "latitude":42.688667
+            }
+        },"36": {
+            "name": "A1 - Area Tudanca Salida 153",
+            "address":"Autovia A1, km 153",
+            "city": "Aranda de Duero",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":2,
+                "type2":4,
+                "chademo":2,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.687322,
+                "latitude":41.623039
+            }
+        },"37": {
+            "name": "Nacex - Salamanca",
+            "address":"Calle Vertical 4, Poligono Industrial Montalvo",
+            "city": "Salamanca",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 5,
+            "cost": 0.24,
+            "power":"7,4kW - 22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":2,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.656105,
+                "latitude":40.937927
+            }
+        },"38": {
+            "name": "Centro Comercial VallSur",
+            "address":"Paseo Zorrilla S/N",
+            "city": "Valladolid",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 5,
+            "cost": 0.24,
+            "power":"7,4kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.751598,
+                "latitude":41.623694
+            }
+        },"39": {
+            "name": "A62 - Tordesillas",
+            "address":"A62 Salida 142",
+            "city": "Tordesillas",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":2,
+                "type2":2,
+                "chademo":2,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.898087,
+                "latitude":41.541882
+            }
+        },"40": {
+            "name": "Complejo El Raso",
+            "address":"Autovia A6, km 231",
+            "city": "Villalpando",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":2,
+                "type2":2,
+                "chademo":2,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.380566,
+                "latitude":41.827310
+            }
+        },"41": {
+            "name": "A6 - Lugo Area 507",
+            "address":"Autovia A6, km 507",
+            "city": "Otero de Rey",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"22kW - 43kW - 50kW",
+            "conectors": {
+                "ccs":2,
+                "type2":2,
+                "chademo":2,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-7.605456,
+                "latitude":43.106760
+            }
+        },"42": {
+            "name": "Allende el Rio",
+            "address":"Travesia de Viñalta, 1",
+            "city": "Palencia",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"3,7kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.541094,
+                "latitude":42.007904
+            }
+        },"43": {
+            "name": "Plaza de Zurradores",
+            "address":"Plaza de Zurradores",
+            "city": "Palencia",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"2,3kW - 7,4kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-4.533378,
+                "latitude":42.008694
+            }
+        },"44": {
+            "name": "Plazoleta de la Sal",
+            "address":"Plazoleta de la Sal S/N",
+            "city": "Palencia",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"7,4kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.532364,
+                "latitude":42.010553
+            }
+        },"45": {
+            "name": "Becerro de Bengoa",
+            "address":"Becerro de Bengoa,12",
+            "city": "Palencia",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"7,4kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.530847,
+                "latitude":42.009024
+            }
+        },"46": {
+            "name": "Avenida Comunidad Europea",
+            "address":"Avenida Comunidad Europea",
+            "city": "Palencia",
+            "country":"Spain",
+            "charger":"Easy Charger",
+            "url":"https://easycharger.es/#app",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"3,7kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.510539,
+                "latitude":42.006914
+            }
+        },"47": {
+            "name": "Sabino Arana, 53",
+            "address":"C/ Sabino Arana, 53",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.947758,
+                "latitude":43.258746
+            }
+        },"48": {
+            "name": "Via P. Plza. Bombero Etxaniz",
+            "address":"Plza. Bombero Etxaniz",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.939819,
+                "latitude":43.258666
+            }
+        },"49": {
+            "name": "Eroski Indautxu",
+            "address":"Plza. de Indautxu, 2, Parking Int. Plta. -1",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.941031,
+                "latitude":43.260716
+            }
+        },"50": {
+            "name": "P. Azkuna Zentroa",
+            "address":"C/ Alameda de Urquijo, 43, Parking Int. Plta. -2",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 2
+            },
+            "coordinates": {
+                "longitude":-2.937074,
+                "latitude":43.260156
+            }
+        },"51": {
+            "name": "P. Inst. Unamuno",
+            "address":"C/ Alameda de Urquijo, 14, Parking Int. Plta. -1",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.932266,
+                "latitude":43.259987
+            }
+        },"52": {
+            "name": "P. Ensanche",
+            "address":"Plza. del Ensanche",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 3,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":3,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.931068,
+                "latitude":43.263661
+            }
+        },"53": {
+            "name": "Via P. Virgen de Begoña",
+            "address":"Begoñako Andra Mari, 47",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":0,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.914262,
+                "latitude":43.259411
+            }
+        },"54": {
+            "name": "Eroski Bolueta",
+            "address":"Ctra. Bilbao-Galdakao, 20, Bº Bolueta",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.905005,
+                "latitude":43.248294
+            }
+        },"55": {
+            "name": "Eroski Abadiño",
+            "address":"Bº Murueta, s/n, Parking Ext.",
+            "city": "Bilbao",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.618189,
+                "latitude":43.170918
+            }
+        },"56": {
+            "name": "Repsol, Derio",
+            "address":"Ctra. BI-3715, KM 10",
+            "city": "Derio",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.876627,
+                "latitude":43.318574
+            }
+        },"57": {
+            "name": "Repsol, Asua",
+            "address":"CTRA. Asua-Loiu, 57 (CL, BI-3704, 57), 48950",
+            "city": "Erandio",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.943620,
+                "latitude":43.307868
+            }
+        },"58": {
+            "name": "Eroski Leioa",
+            "address":"Ctra. La Avanzada, s/n, Parking Ext.",
+            "city": "Leioa",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.974942,
+                "latitude":43.318530
+            }
+        },"59": {
+            "name": "Metro, Leioa",
+            "address":"Iturriondo Kalea, 8, 48940 Leioa, Bizkaia",
+            "city": "Leioa",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.991764,
+                "latitude":43.317673
+            }
+        },"60": {
+            "name": "Eroski Megapark",
+            "address":"Av. de la Ribera, 1, Parking Int. Plta. -1",
+            "city": "Barakaldo",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.995668,
+                "latitude":43.285685
+            }
+        },"61": {
+            "name": "P. Bilbao Exhibition Centre",
+            "address":"Ronda de Azkue, 1, Parking Int. Plta. -1",
+            "city": "Barakaldo",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.990295,
+                "latitude":43.288036
+            }
+        },"62": {
+            "name": "Repsol, Barakaldo",
+            "address":"Av. de la Ribera, s/n, 48902",
+            "city": "Barakaldo",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW - 50kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.006240,
+                "latitude":43.296359
+            }
+        },"63": {
+            "name": "P. Zubialde",
+            "address":"C/ Almirante Cristóbal Mello, s/n",
+            "city": "Portugalete",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-3.020080,
+                "latitude":43.323456
+            }
+        },"64": {
+            "name": "P. San Roque",
+            "address":"Calle Gregorio Uzquiano, s/n",
+            "city": "Portugalete",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude": -3.021257,
+                "latitude":43.318393
+            }
+        },"65": {
+            "name": "Eroski Zalla",
+            "address":"Bº El Baular, 13 BIS, 16570",
+            "city": "Zalla",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-3.125219,
+                "latitude":43.210563
+            }
+        },"66": {
+            "name": "Vía P. Valle de Mena",
+            "address":"C/ Félix Rodríguez de la Fuente, 2L",
+            "city": "Valle de Mena",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.283396,
+                "latitude":43.098291
+            }
+        },"67": {
+            "name": "Repsol, Lopidana",
+            "address":"CR N-1 P.K. 350,50",
+            "city": "Vitoria-Gasteiz",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.39,
+            "power":"3,7kW",
+            "conectors": {
+                "ccs":0,
+                "type2":0,
+                "chademo":4,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.712563,
+                "latitude":42.877391
+            }
+        },"68": {
+            "name": "Parque Tecnológico Áraba",
+            "address":"C/ Albert Einstein, 15, 1510",
+            "city": "Vitoria-Gasteiz",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.664449,
+                "latitude":42.911536
+            }
+        },"69": {
+            "name": "Via P. Nizeto Urkizu Kalea 4",
+            "address":"Nizeto Urkizu Kalea 4",
+            "city": "Elorrio",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.540922,
+                "latitude":43.130766
+            }
+        },"70": {
+            "name": "Pol. de Innovación Garaia",
+            "address":"Goiru Kalea, 1",
+            "city": "Arrasate/Mondragón",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.505395,
+                "latitude":43.062618
+            }
+        },"71": {
+            "name": "Eroski Arrasate",
+            "address":"Bº Musakola, s/n, Parking Ext",
+            "city": "Arrasate/Mondragón",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-2.488903,
+                "latitude":43.063609
+            }
+        },"72": {
+            "name": "Parque Tecnológico Gipuzkoa",
+            "address":"P.º Mikeletegi, 53",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-1.984955,
+                "latitude":43.292034
+            }
+        },"73": {
+            "name": "Via P. Elías Salaberría",
+            "address":"C/ Elías Salaberría",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3,7kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.009220,
+                "latitude":43.308936
+            }
+        },"74": {
+            "name": "Via P. Hernani",
+            "address":"C/ Hernani, 21",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.984002,
+                "latitude":43.320358
+            }
+        },"75": {
+            "name": "Via P. Bermingham",
+            "address":"C/ Bermingham, 23",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.971719,
+                "latitude":43.324087
+            }
+        },"76": {
+            "name": "EASO Politeknikoa",
+            "address":"Aitzol Parkea,2",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.976904,
+                "latitude":43.306665
+            }
+        },"77": {
+            "name": "Eroski Arcco Amara",
+            "address":"Plza. de Irún, 6, Parking Int. Plta. -1",
+            "city": "Donostia/San Sebastián",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-1.973796,
+                "latitude":43.305581
+            }
+        },"78": {
+            "name": "Eroski Hondarribia",
+            "address":"C/ Minasoroeta, Parking Int. Plta. -1",
+            "city": "Hondarribia",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-1.794027,
+                "latitude":43.362108
+            }
+        },"79": {
+            "name": "P. FICOBA",
+            "address":"Av. de Iparralde 43",
+            "city": "Irún",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.787489,
+                "latitude":43.347478
+            }
+        },"80": {
+            "name": "Repsol, Irún",
+            "address":"Pozuetakogaina 19",
+            "city": "Irún",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"24/7",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"3,7kW",
+            "conectors": {
+                "ccs":1,
+                "type2":1,
+                "chademo":1,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.817128,
+                "latitude":43.333764
+            }
+        },"81": {
+            "name": "Eroski Pamplona",
+            "address":"Pol. Agustinos. C/ Soto Aizoain",
+            "city": "Pamplona/Iruña",
+            "country":"Spain",
+            "charger":"Ibil",
+            "url":"https://www.ibil.es/index.php/es/component/k2/item/114",
+            "hours":"2Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0.39,
+            "power":"3.7kW - 11kW",
+            "conectors": {
+                "ccs":0,
+                "type2":1,
+                "chademo":0,
+                "schuko": 1
+            },
+            "coordinates": {
+                "longitude":-1.680232,
+                "latitude":42.834046
+            }
+        },"82": {
+            "name": "Alcantarilha",
+            "address":"Morgado da Lameira -302",
+            "city": "Alcantarilha",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-8.364525,
+                "latitude":37.150529
+            }
+        },"83": {
+            "name": "Alcácer do Sal",
+            "address":"Avenida José Saramago 7580",
+            "city": "Alcácer do Sal",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-8.513867,
+                "latitude":38.391941
+            }
+        },"84": {
+            "name": "Ribeira de Pena",
+            "address":"Rua do Complexo Turístico de Lamelas, 1 4870",
+            "city": "Ribeira de Pena",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-7.801877,
+                "latitude":41.503684
+            }
+        },"85": {
+            "name": "Guarda",
+            "address":"Travessa das Covas 31",
+            "city": "Guarda",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-7.230415,
+                "latitude":40.559107
+            }
+        },"86": {
+            "name": "Montemor-o-Novo",
+            "address":"L´AND Vineyards, Montemor-o-Novo",
+            "city": "Montemor-o-Novo",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-8.247265,
+                "latitude":38.645753
+                
+            }
+        },"87": {
+            "name": "Fátima",
+            "address":"Floresta Fátima - Restaurante ",
+            "city": "Estrada da Batalha",
+            "country":"Portugal",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 14,
+            "cost": 0.29,
+            "power":"150kW",
+            "conectors": {
+                "ccs":14,
+                "type2":14,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-8.688469,
+                "latitude":39.635478
+            }
+        },"88": {
+            "name": "Aire de Cambarette",
+            "address":"Aire de Cambarette Nord A8",
+            "city": "Brignoles",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.989588,
+                "latitude":43.424125
+            }
+        },"89": {
+            "name": "Eurotunnel - Flexiplus Lounge",
+            "address":"Boulevard de l'Europe",
+            "city": "Coquelles",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 2,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":2,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.813182,
+                "latitude":50.929973
+            }
+        },"90": {
+            "name": "Montélimar",
+            "address":"N7 Z.A. du Pavé",
+            "city": "Saulce-sur-Rhône",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 16,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":16,
+                "type2":16,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.7963217,
+                "latitude":44.6760522
+            }
+        },"91": {
+            "name": "Aire de Vidauban Sud",
+            "address":"Aire de Vidauban Sud",
+            "city": "Vidauban",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":6.452515,
+                "latitude":43.414592
+            }
+        },"92": {
+            "name": "Limoges",
+            "address":"2 Avenue d Uzurat",
+            "city": "Limoges",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.271213,
+                "latitude":45.867722
+            }
+        },"93": {
+            "name": "Charleville Mézières",
+            "address":"Hotel IBIS Charleville-Mézières, rue Louise Michel",
+            "city": "Villers-Semeuse",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.744083,
+                "latitude":49.736827
+            }
+        },"94": {
+            "name": "Fontainebleau",
+            "address":"Route Nationale 152 Chemin De Melun",
+            "city": "Ury",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.6067816,
+                "latitude":48.3495627
+            }
+        },"95": {
+            "name": "La Léchère-les-Bains",
+            "address":"73261 La Léchère-les-Bains A67",
+            "city": "La Léchère-les-Bains",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":6.482522,
+                "latitude":45.51877
+            }
+        },"96": {
+            "name": "Besançon",
+            "address":"1 bis rue Victor Considérant",
+            "city": "Chemaudin et Vaux",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.901153,
+                "latitude":47.234539
+            }
+        },"97": {
+            "name": "Troyes - Saint-Parres-aux-Tertres",
+            "address":"Zone commerciale de Saint-Parres-aux-Tertres",
+            "city": "Chemaudin et Vaux",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.130685,
+                "latitude":48.293229
+            }
+        },"98": {
+            "name": "Mont-Saint-Michel",
+            "address":"Za Le Point du Jour",
+            "city": "Saint-Georges-de-Gréhaigne",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.543283,
+                "latitude":48.568171
+            }
+        },"99": {
+            "name": "Thiais",
+            "address":"Rue du Luxembourg",
+            "city": "Thiais",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 12,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":12,
+                "type2":12,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.373034,
+                "latitude":48.754865
+            }
+        },"100": {
+            "name": "Aire du Poulet de Bresse",
+            "address":"A39 - Aire du Poulet de Bresse",
+            "city": "Dommartin-lès-Cuiseaux",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.310394,
+                "latitude":46.496179
+            }
+        },"101": {
+            "name": "Amiens",
+            "address":"5144A Route d'Amiens",
+            "city": "Amiens",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.27814,
+                "latitude":49.863492
+            }
+        },"102": {
+            "name": "Sailly-Flibeaucourt",
+            "address":"A16 - Aire de la Baie de Somme",
+            "city": "Sailly-Flibeaucourt",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.755505,
+                "latitude":50.167321
+            }
+        },"103": {
+            "name": "Toulon",
+            "address":"80 Chemin de la Capellane",
+            "city": "La Seyne-sur-Mer",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.85086,
+                "latitude":43.121199
+            }
+        },"104": {
+            "name": "Val-de-Meuse",
+            "address":"D132, A31 near Langres",
+            "city": "Val-de-Meuse",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 16,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":16,
+                "type2":16,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.51296,
+                "latitude":47.99147
+            }
+        },"105": {
+            "name": "Valenciennes",
+            "address":"Rue de Maugré 59220 Rouvignies",
+            "city": "Rouvignies",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.455931,
+                "latitude":50.336704
+            }
+        },"106": {
+            "name": "Pau",
+            "address":"2 rue Suzanne Lenglen",
+            "city": "Pau",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.358762,
+                "latitude":43.332257
+            }
+        },"107": {
+            "name": "Aire de Châteauvillain - Val Marnay",
+            "address":"A5 - Aire de Châteauvillain-Val MarnayChâteauvillain",
+            "city": "Châteauvillain",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.959604,
+                "latitude":48.057341
+            }
+        },"108": {
+            "name": "Aire de Châteauvillain - Orges",
+            "address":"A5 - Aire de Châteauvillain-OrgesChâteauvillain",
+            "city": "Châteauvillain",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.96061,
+                "latitude":48.057681
+            }
+        },"109": {
+            "name": "Saint-Brieuc",
+            "address":"23 Rue Blaise Pascal",
+            "city": "Saint-Brieuc",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-2.722645,
+                "latitude":48.493453
+            }
+
+        },"110": {
+            "name": "Aix-en-Provence - Val de l'Arc",
+            "address":"Avenue des Infirmeries 13100",
+            "city": "Aix-en-Provence",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.466433,
+                "latitude":43.511938
+            }
+        },"111": {
+            "name": "Urvillers",
+            "address":"A26 Aire d'Urvillers",
+            "city": "Urvillers",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.335626,
+                "latitude":49.787019
+            }
+        },"112": {
+            "name": "Langon",
+            "address":"Centre Commercial Moléon",
+            "city": "Langon",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.253972,
+                "latitude":44.54244
+            }
+        },"113": {
+            "name": "Aire de Saint-Priest",
+            "address":"69800 Saint-Pries S.",
+            "city": "Saint-Priest",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.975513,
+                "latitude":45.698042
+            }
+        },"114": {
+            "name": "Aire de Manissieux",
+            "address":"69800 Saint-Priest N.",
+            "city": "Saint-Priest",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.977541,
+                "latitude":45.69848
+            }
+        },"115": {
+            "name": "Cagnes-sur-Mer – Polygone Riviera P2",
+            "address":"27-9 Rue de la Grange Rimade",
+            "city": "Cagnes-sur-Mer",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":7.124728,
+                "latitude":43.666884
+            }
+        },"116": {
+            "name": "Sisteron",
+            "address":"1 Allée des Tilleuls",
+            "city": "Sisteron",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.913554,
+                "latitude":44.226199
+            }
+        },"117": {
+            "name": "Cagnes-sur-Mer",
+            "address":"119 Avenue des Alpes",
+            "city": "Cagnes-sur-Mer, ",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":7.127372,
+                "latitude":43.666446
+            }
+        },"118": {
+            "name": "Bernin",
+            "address":"134 Chemin des Fontaines",
+            "city": "Bernin",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.876448,
+                "latitude":45.265676
+            }
+        },"119": {
+            "name": "Chasseneuil-du-Poitou",
+            "address":"Avenue René Monory",
+            "city": "Chasseneuil-du-Poitou",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":0.362651,
+                "latitude":46.670356
+            }
+        },"120": {
+            "name": "Collégien",
+            "address":"2 Allée des Portes de la Forêt Collégien, France 77090",
+            "city": "Collégien",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.678019,
+                "latitude":48.830877
+            }
+        },"121": {
+            "name": "Orléans",
+            "address":"Chemin des Sablons Saran, France 45770",
+            "city": "Saran",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.86831,
+                "latitude":47.948869
+            }
+        },"122": {
+            "name": "Le Caylar",
+            "address":"Aire du Caylar",
+            "city": "Le Caylar",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.313277,
+                "latitude":43.864589
+            }
+        },"123": {
+            "name": "Caudan",
+            "address":"758 rue Pierre Landais Caudan, France",
+            "city": "Caudan",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.331263,
+                "latitude":47.788035
+            }
+        },"124": {
+            "name": "Aire de Reims-Champagne-Sud",
+            "address":"A4 Aire de Reims Sud",
+            "city": "Les Petites-Loges",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.24261,
+                "latitude":49.120781
+            }
+        },"125": {
+            "name": "Aire de Reims-Champagne-Nord",
+            "address":"A4 Aire de Reims Sud",
+            "city": "Les Petites-Loges",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.245689,
+                "latitude":49.119348
+            }
+        },"126": {
+            "name": "Caen",
+            "address":"1 Avenue du Fresne Bretteville-sur-Odon",
+            "city": "Bretteville-sur-Odon",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.424802,
+                "latitude":49.16398
+            }
+        },"127": {
+            "name": "Albaret-Sainte-Marie",
+            "address":"Aire de la Garde",
+            "city": "Albaret-Sainte-Marie",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.252918,
+                "latitude":44.870977
+            }
+        },"128": {
+            "name": "Rouen",
+            "address":"Angle Avenue de l'Université Rue de la Mare Sansoure",
+            "city": "Saint-Étienne-du-Rouvray",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.059818,
+                "latitude":49.388964
+            }
+        },"129": {
+            "name": "Orgeval",
+            "address":"482 Route Des 40 Sous",
+            "city": "Orgeval",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.996508,
+                "latitude":48.925026
+            }
+        },"130": {
+            "name": "Bourges",
+            "address":"3 Rue Joseph Aristide",
+            "city": "Bourges",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.344843,
+                "latitude":47.049393
+            }
+        },"131": {
+            "name": "Mougins",
+            "address":"205 avenue du Golf",
+            "city": "Mougins",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":7.011155,
+                "latitude":43.603659
+            }
+        },"132": {
+            "name": "Strasbourg",
+            "address":"Rue du 23 Novembre",
+            "city": "Ostwald",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":7.702054,
+                "latitude":48.534041
+            }
+        },"133": {
+            "name": "Châteauroux",
+            "address":"Relais Saint Jacques, Châteauroux-Centre",
+            "city": "Coings",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.716048,
+                "latitude":46.863058
+            }
+        },"134": {
+            "name": "Bayonne",
+            "address":"1 Chemin de Hayet",
+            "city": "Bayonne",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.452739,
+                "latitude":43.493245
+            }
+        },"135": {
+            "name": "Chambéry Barberaz",
+            "address":"61 Rue de la République by La Maison Rouge",
+            "city": "Barberaz",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.949646,
+                "latitude":45.56085
+            }
+        },"136": {
+            "name": "Clermont-Ferrand",
+            "address":"32-34 rue Georges Besse",
+            "city": "Clermont-Ferrand",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.141488,
+                "latitude":45.785937
+            }
+        },"137": {
+            "name": "Valence",
+            "address":"Novotel Valence Sud 217 Avenue de Provence",
+            "city": "Valence",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.878081,
+                "latitude":44.918953
+            }
+        },"138": {
+            "name": "Beaune",
+            "address":"Mercure Beaune Centre 7 Ave, Charles de Gaulle",
+            "city": "Beaune",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.836543,
+                "latitude":47.017089
+            }
+        },"139": {
+            "name": "Aix-en-Provence",
+            "address":"Hotel Novotel Aix en Provence Pont de l'Arc Fenouillères Avenue Arc de Meyran",
+            "city": "Aix-en-Provence",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.456429,
+                "latitude":43.510637
+            }
+        },"140": {
+            "name": "Chapelle-sur-Erdre",
+            "address":"Westotel 34 rue de la Vrière La Chapelle-sur-Erdre",
+            "city": "Chapelle-sur-Erdre",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.549982,
+                "latitude":47.282708
+            }
+        },"141": {
+            "name": "Lille",
+            "address":"55 route de Douai Lesquin",
+            "city": "Lille",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 16,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":16,
+                "type2":16,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.088602,
+                "latitude":50.583875
+            }
+        },"142": {
+            "name": "Bordeaux",
+            "address":"80 Avenue J. F. Kennedy",
+            "city": "Merignac",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 10,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":10,
+                "type2":10,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.681374,
+                "latitude":44.835346
+            }
+        },"143": {
+            "name": "Rungis",
+            "address":"Novotel Paris Orly Rungis 1 Rue du pont des halles",
+            "city": "Rungis",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 6,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.351036,
+                "latitude":48.754456
+            }
+        },"144": {
+            "name": "Rennes",
+            "address":"Allée d'Ukraine",
+            "city": "Rennes",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-1.684395,
+                "latitude":48.08208
+            }
+        },"145": {
+            "name": "Mulhouse",
+            "address":"Golden Tulip Hôtel, Ile napoleon, Rue des Cévennes",
+            "city": "Mulhouse",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":7.388299,
+                "latitude":47.782016
+            }
+        },"146": {
+            "name": "Vienne",
+            "address":"145 Rue Pasteur, by hotel IBIS",
+            "city": "Chasse-sur-Rhône",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.787527,
+                "latitude":45.587457
+            }
+        },"147": {
+            "name": "Eurotunnel",
+            "address":"Eurotunnel boarding/waiting area",
+            "city": "Coquelles",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.812951,
+                "latitude":50.935031
+            }
+        },"148": {
+            "name": "Le Mans",
+            "address":"Centre Commercial Auchan Le Mans ZAC du Moulin aux Moines",
+            "city": "La Chapelle St Aubin",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":0.175342,
+                "latitude":48.041833
+            }
+        },"149": {
+            "name": "Calais",
+            "address":"ZAC Les Terrasses, Rue des Longues Pièces by hotel L'Haut'Aile",
+            "city": "La Chapelle St Aubin",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":6,
+                "type2":6,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.80414,
+                "latitude":50.924425
+            }
+        },"150": {
+            "name": "Brive-la-Gaillarde",
+            "address":"Hôtel Mercure Brive Le Griffolet",
+            "city": "La Chapelle St Aubin",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.483119,
+                "latitude":45.16724
+            }
+        },"151": {
+            "name": "Toulouse",
+            "address":"Eurocentre Hôtel, Avenue de Saint Guillan",
+            "city": "Toulouse",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":1.361378,
+                "latitude":43.769334
+            }
+        },"152": {
+            "name": "Nancy",
+            "address":"Hotel Style Ibis, 8 Allée de la Genelière",
+            "city": "Nancy",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":6.184349,
+                "latitude":48.638215
+            }
+        },"153": {
+            "name": "Saintes",
+            "address":"132 Cours Genet",
+            "city": "Saintes",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.661722,
+                "latitude":45.75
+            }
+        },"154": {
+            "name": "Orange",
+            "address":"Rue Cinsault",
+            "city": "Orange",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.851759,
+                "latitude":44.112164
+            }
+        },"155": {
+            "name": "Tours",
+            "address":"19 Quai de la Loire Rochecorbon",
+            "city": "Rochecorbon",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":0.744827,
+                "latitude":47.407325
+            }
+        },"156": {
+            "name": "Senlis",
+            "address":"72 Avenue du General de Gaulle",
+            "city": "Senlis",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 16,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":16,
+                "type2":16,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.6057883,
+                "latitude":49.208728
+            }
+        },"157": {
+            "name": "Archamps",
+            "address":"Archamps Technopole, Route de Chosal",
+            "city": "Archamps",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":6.124306,
+                "latitude":46.136917
+            }
+        },"158": {
+            "name": "Metz",
+            "address":"E. Leclerc",
+            "city": "Metz",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 12,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":12,
+                "type2":12,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":6.171078,
+                "latitude":49.216495
+            }
+        },"159": {
+            "name": "Matougues",
+            "address":"8 Route Nationale",
+            "city": "Matougues",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.244946,
+                "latitude":48.991991
+            }
+        },"160": {
+            "name": "Narbonne",
+            "address":"130 Rue de L'Hôtellerie",
+            "city": "Narbonne",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 12,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":12,
+                "type2":12,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":2.986012,
+                "latitude":43.167693
+            }
+        },"161": {
+            "name": "Chambéry",
+            "address":"1097 Avenue Des Landiers",
+            "city": "Chambéry",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 4,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":4,
+                "type2":4,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":5.899842,
+                "latitude":45.592227
+            }
+        },"162": {
+            "name": "Mâcon",
+            "address":"1 Boulevard du Général de Gaulle",
+            "city": "Sancé",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 20,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":20,
+                "type2":20,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.850173,
+                "latitude":46.346553
+            }
+        },"163": {
+            "name": "Nimes",
+            "address":"152 rue Claude Nicolas Ledoux",
+            "city": "Nimes",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":4.345114,
+                "latitude":43.816537
+            }
+        },"164": {
+            "name": "Auxerre",
+            "address":"Route national 6 - Lieu dit",
+            "city": "Appoigny",
+            "country":"France",
+            "charger":"Supercharger",
+            "url":"https://www.tesla.com",
+            "hours":"24/7, ticket for tunnel needed",
+            "puestos": 8,
+            "cost": 0.24,
+            "power":"150kW",
+            "conectors": {
+                "ccs":8,
+                "type2":8,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":3.542802,
+                "latitude":47.85183
+            }
+        },"165": {
+            "name": "The Rock Hotel Gibraltar",
+            "address":"3 Europa Road",
+            "city": "Gibraltar",
+            "country":"United Kingdom",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"7kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.350203,
+                "latitude":36.132059
+            }
+        },"166": {
+            "name": "Hotel Spa Playaballena",
+            "address":"Avd Juan Carlos I, s/n",
+            "city": "Rota",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"9kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-6.416068,
+                "latitude":36.689131
+            }
+        },"167": {
+            "name": "Ap. Mirador de Santa Justa - Insur",
+            "address":"Avda. Kansas City s/n",
+            "city": "Sevilla",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.973704,
+                "latitude":37.390211
+            }
+        },"168": {
+            "name": "Hotel Palacio Torre de Ruesga",
+            "address":"Barrio de la Barcena",
+            "city": "La Cavada-Ramales de la Victoria",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0,
+            "power":"11kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.5262735,
+                "latitude":43.2788904
+            }
+        },"169": {
+            "name": "Comunidad General Parque Comercial Talavera",
+            "address":"Carretera N-V km 114",
+            "city": "Talavera de la Reina",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 2,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":2,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-4.796442,
+                "latitude":39.96643
+            }
+        },"170": {
+            "name": "Hotel el Cruce",
+            "address":"Autovia A4",
+            "city": "Manzanares",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.383824,
+                "latitude":39.006986
+            }
+        },"171": {
+            "name": "Hotel Spa la Casa del Rector",
+            "address":"Autovia A4",
+            "city": "Manzanares",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.717387,
+                "latitude":38.888267
+            }
+        },"172": {
+            "name": "Balneario de Manzanera el Paraiso",
+            "address":"KM. 2 Carretera Abejuela",
+            "city": "Manzanera",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"14kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-0.868354,
+                "latitude":40.039382
+            }
+        },"173": {
+            "name": "Alentejo Marmoris Hotel and Spa",
+            "address":"9 Largo Gago Coutinho",
+            "city": "Vila Vicosa",
+            "country":"Portugal",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-7.420208,
+                "latitude":38.777222
+            }
+        },"174": {
+            "name": "Morada Da Moa",
+            "address":"Carretera General Cee - Carnota",
+            "city": "Finisterre",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"17kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-9.134705,
+                "latitude":42.893194
+            }
+        },"175": {
+            "name": "Hotel O'semaforo Finisterre",
+            "address":"Carretera del Faro",
+            "city": "Finisterre",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-9.271944,
+                "latitude":42.88314
+            }
+        },"176": {
+            "name": "Centro Comercial As Termas",
+            "address":"Carretera del Faro",
+            "city": "Lugo",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"17kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-7.568784,
+                "latitude":43.036135
+            }
+        },"177": {
+            "name": "Centro Comercial Gran Via de Vigo",
+            "address":"Calle Miradoiro,2",
+            "city": "Vigo",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"17kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-8.724445,
+                "latitude":42.220889
+            }
+
+        },"178": {
+            "name": "Centro Comercial Intu Asturias",
+            "address":"Autovia A66",
+            "city": "Oviedo",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"17kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-5.8050691,
+                "latitude":43.3900702
+            }
+        },"179": {
+            "name": "Hotel Vincci Soho",
+            "address":"Calle del Prado,18",
+            "city": "Madrid",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.698171,
+                "latitude":40.415024
+            }
+        },"180": {
+            "name": "Centro Comercial Abc Serrano",
+            "address":"Calle de Serrano,61",
+            "city": "Madrid",
+            "country":"Spain",
+            "charger":"Tesla Destination Charging",
+            "url":"https://www.tesla.com",
+            "hours":"Sujeto a horario del lugar.",
+            "puestos": 1,
+            "cost": 0,
+            "power":"22kW",
+            "conectors": {
+                "ccs":0 ,
+                "type2":1,
+                "chademo":0,
+                "schuko": 0
+            },
+            "coordinates": {
+                "longitude":-3.68678,
+                "latitude":40.432498
+            }
+        }
+    }
+}
